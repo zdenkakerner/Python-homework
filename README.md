@@ -7,7 +7,7 @@ I would like this folder to contain up to date solutions and exercises for the p
 data for exercises
 not tracked
 ## misc
-
+lessons that we did together in the class
 ## rosalind
 rosalind exercises solutions
 
